@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieList", "MovieList\MovieList.csproj", "{DE0011A6-8675-4935-BFDD-5EE8FE38330D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MovieListSetup", "MovieListSetup\MovieListSetup.vdproj", "{15355DF8-1491-4E98-A292-B3473CF5F8A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE0011A6-8675-4935-BFDD-5EE8FE38330D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0011A6-8675-4935-BFDD-5EE8FE38330D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0011A6-8675-4935-BFDD-5EE8FE38330D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0011A6-8675-4935-BFDD-5EE8FE38330D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15355DF8-1491-4E98-A292-B3473CF5F8A4}.Debug|Any CPU.ActiveCfg = Debug
+		{15355DF8-1491-4E98-A292-B3473CF5F8A4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA8DEF20-5531-4CC3-990C-040627FC6A32}
+	EndGlobalSection
+EndGlobal
